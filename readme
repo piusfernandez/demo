@@ -1,3 +1,7 @@
+Add project to git
+https://help.github.com/en/github/importing-your-projects-to-github/adding-an-existing-project-to-github-using-the-command-line
+
+
 To run demo
 1. run local redis instance
 2. run local elasticsearch instance
