@@ -1,0 +1,1782 @@
+{
+  "\"9\"": {
+    "companyCode": "\"9\"",
+    "companyName": "\"Travelers Casualty and Surety\""
+  },	
+  "\"11\"": {
+    "companyCode": "\"11\"",
+    "companyName": "\"Travelers Casualty and Surety (Commercial)\""
+  },
+  "\"13\"": {
+    "companyCode": "\"13\"",
+    "companyName": "\"Travelers Casualty Insurance Company of America\""
+  },
+  "\"17\"": {
+    "companyCode": "\"17\"",
+    "companyName": "\"ACE Property and Casualty Insurance Company\""
+  },
+  "\"21\"": {
+    "companyCode": "\"21\"",
+    "companyName": "\"Affiliated FM Insurance Company\""
+  },
+  "\"25\"": {
+    "companyCode": "\"25\"",
+    "companyName": "\"Great American Assurance Company\""
+  },
+  "\"27\"": {
+    "companyCode": "\"27\"",
+    "companyName": "\"Countryway Insurance Company\""
+  },
+  "\"29\"": {
+    "companyCode": "\"29\"",
+    "companyName": "\"AIU Insurance Company\""
+  },
+  "\"30\"": {
+    "companyCode": "\"30\"",
+    "companyName": "\"American Family Home Insurance Company\""
+  },
+  "\"32\"": {
+    "companyCode": "\"32\"",
+    "companyName": "\"Alea North America Insurance Company\""
+  },
+  "\"33\"": {
+    "companyCode": "\"33\"",
+    "companyName": "\"Allstate Insurance Company\""
+  },
+  "\"35\"": {
+    "companyCode": "\"35\"",
+    "companyName": "\"Allstate Indemnity Company\""
+  },
+  "\"38\"": {
+    "companyCode": "\"38\"",
+    "companyName": "\"Allstate Vehicle & Property Insurance Company\""
+  },
+  "\"40\"": {
+    "companyCode": "\"40\"",
+    "companyName": "\"American Country Insurance Company\""
+  },
+  "\"41\"": {
+    "companyCode": "\"41\"",
+    "companyName": "\"American Fire and Casualty Company\""
+  },
+  "\"43\"": {
+    "companyCode": "\"43\"",
+    "companyName": "\"AMEX Assurance Company\""
+  },
+  "\"44\"": {
+    "companyCode": "\"44\"",
+    "companyName": "\"Great American Alliance Insurance Company\""
+  },
+  "\"45\"": {
+    "companyCode": "\"45\"",
+    "companyName": "\"American Automobile Insurance Company\""
+  },
+  "\"47\"": {
+    "companyCode": "\"47\"",
+    "companyName": "\"Berkshire Hathaway Direct Insurance Company\""
+  },
+  "\"49\"": {
+    "companyCode": "\"49\"",
+    "companyName": "\"American Casualty Company of Reading, PA\""
+  },
+  "\"65\"": {
+    "companyCode": "\"65\"",
+    "companyName": "\"SPARTA Insurance Company\""
+  },
+  "\"83\"": {
+    "companyCode": "\"83\"",
+    "companyName": "\"21st Century Pacific Insurance Company\""
+  },
+  "\"89\"": {
+    "companyCode": "\"89\"",
+    "companyName": "\"American Guarantee Insurance Company\""
+  },
+  "\"91\"": {
+    "companyCode": "\"91\"",
+    "companyName": "\"American Zurich Insurance Company\""
+  },
+  "\"96\"": {
+    "companyCode": "\"96\"",
+    "companyName": "\"Motorists Commercial Mutual Insurance Company\""
+  },
+  "\"99\"": {
+    "companyCode": "\"99\"",
+    "companyName": "\"American Home Assurance Company\""
+  },
+  "\"100\"": {
+    "companyCode": "\"100\"",
+    "companyName": "\"Acadia Insurance Company\""
+  },
+  "\"101\"": {
+    "companyCode": "\"101\"",
+    "companyName": "\"American Alternative Insurance Corporation\""
+  },
+  "\"103\"": {
+    "companyCode": "\"103\"",
+    "companyName": "\"American Insurance Company, The\""
+  },
+  "\"105\"": {
+    "companyCode": "\"105\"",
+    "companyName": "\"Crum & Forster Indemnity Company\""
+  },
+  "\"107\"": {
+    "companyCode": "\"107\"",
+    "companyName": "\"Old Republic General Insurance Corporation\""
+  },
+  "\"108\"": {
+    "companyCode": "\"108\"",
+    "companyName": "\"Sentry Casualty Company\""
+  },
+  "\"109\"": {
+    "companyCode": "\"109\"",
+    "companyName": "\"Pennsylvania Lumbermens Mutual Insurance Company\""
+  },
+  "\"110\"": {
+    "companyCode": "\"110\"",
+    "companyName": "\"KnightBrook Insurance Company\""
+  },
+  "\"111\"": {
+    "companyCode": "\"111\"",
+    "companyName": "\"Admiral Indemnity Company\""
+  },
+  "\"113\"": {
+    "companyCode": "\"113\"",
+    "companyName": "\"Privilege Underwriters Reciprocal Exchange (PURE) (Pilgrim)\""
+  },
+  "\"114\"": {
+    "companyCode": "\"114\"",
+    "companyName": "\"American Mining Insurance Company\""
+  },
+  "\"115\"": {
+    "companyCode": "\"115\"",
+    "companyName": "\"Indiana Lumbermens Mutual Insurance Company\""
+  },
+  "\"116\"": {
+    "companyCode": "\"116\"",
+    "companyName": "\"Security National Insurance Company\""
+  },
+  "\"118\"": {
+    "companyCode": "\"118\"",
+    "companyName": "\"Privilege Underwriters Reciprocal Exchange (PURE)\""
+  },
+  "\"119\"": {
+    "companyCode": "\"119\"",
+    "companyName": "\"Hiscox Insurance Company Inc\""
+  },
+  "\"120\"": {
+    "companyCode": "\"120\"",
+    "companyName": "\"Crestbrook Insurance Company\""
+  },
+  "\"121\"": {
+    "companyCode": "\"121\"",
+    "companyName": "\"Allied World Specialty Insurance Company\""
+  },
+  "\"122\"": {
+    "companyCode": "\"122\"",
+    "companyName": "\"Kookmin Best Insurance Company Ltd. (US Branch)\""
+  },
+  "\"123\"": {
+    "companyCode": "\"123\"",
+    "companyName": "\"HDI Global Insurance Company\""
+  },
+  "\"125\"": {
+    "companyCode": "\"125\"",
+    "companyName": "\"AmGUARD Insurance Company\""
+  },
+  "\"127\"": {
+    "companyCode": "\"127\"",
+    "companyName": "\"Great American Insurance Company of New York\""
+  },
+  "\"128\"": {
+    "companyCode": "\"128\"",
+    "companyName": "\"Accredited Surety and Casulaty Company Inc\""
+  },
+  "\"132\"": {
+    "companyCode": "\"132\"",
+    "companyName": "\"Brotherhood Mutual Insurance Company\""
+  },
+  "\"134\"": {
+    "companyCode": "\"134\"",
+    "companyName": "\"New York Marine and General Insurance Company\""
+  },
+  "\"136\"": {
+    "companyCode": "\"136\"",
+    "companyName": "\"Hospitality Insurance Company\""
+  },
+  "\"137\"": {
+    "companyCode": "\"137\"",
+    "companyName": "\"Amerisure Partners Insurance Company\""
+  },
+  "\"138\"": {
+    "companyCode": "\"138\"",
+    "companyName": "\"Markel Insurance Company*\""
+  },
+  "\"139\"": {
+    "companyCode": "\"139\"",
+    "companyName": "\"Argonaut Great Central Insurance Company\""
+  },
+  "\"141\"": {
+    "companyCode": "\"141\"",
+    "companyName": "\"Preferred Mutual Insurance Company\""
+  },
+  "\"142\"": {
+    "companyCode": "\"142\"",
+    "companyName": "\"Preferred Mutual Insurance Company (Pilgrim)*\""
+  },
+  "\"143\"": {
+    "companyCode": "\"143\"",
+    "companyName": "\"American Hallmark Insurance Company of Texas\""
+  },
+  "\"144\"": {
+    "companyCode": "\"144\"",
+    "companyName": "\"Wesco Insurance Company\""
+  },
+  "\"148\"": {
+    "companyCode": "\"148\"",
+    "companyName": "\"Hospitality Mutual Insurance Company\""
+  },
+  "\"149\"": {
+    "companyCode": "\"149\"",
+    "companyName": "\"Kingstone Insurance Company\""
+  },
+  "\"151\"": {
+    "companyCode": "\"151\"",
+    "companyName": "\"Amerisure Insurance Company\""
+  },
+  "\"153\"": {
+    "companyCode": "\"153\"",
+    "companyName": "\"Arbella Mutual Insurance Company\""
+  },
+  "\"154\"": {
+    "companyCode": "\"154\"",
+    "companyName": "\"Arbella Protection Insurance Company\""
+  },
+  "\"155\"": {
+    "companyCode": "\"155\"",
+    "companyName": "\"Argonaut Insurance Company\""
+  },
+  "\"156\"": {
+    "companyCode": "\"156\"",
+    "companyName": "\"Arbella Indemnity Insurance Company\""
+  },
+  "\"157\"": {
+    "companyCode": "\"157\"",
+    "companyName": "\"Argonaut-Midwest Insurance Company\""
+  },
+  "\"158\"": {
+    "companyCode": "\"158\"",
+    "companyName": "\"Technology Insurance Company (TIC)\""
+  },
+  "\"159\"": {
+    "companyCode": "\"159\"",
+    "companyName": "\"Accident Fund National Insurance Company\""
+  },
+  "\"160\"": {
+    "companyCode": "\"160\"",
+    "companyName": "\"National Specialty Insurance Company\""
+  },
+  "\"161\"": {
+    "companyCode": "\"161\"",
+    "companyName": "\"Accident Fund General Insurance Company\""
+  },
+  "\"162\"": {
+    "companyCode": "\"162\"",
+    "companyName": "\"Imperium Insurance Company\""
+  },
+  "\"163\"": {
+    "companyCode": "\"163\"",
+    "companyName": "\"Associated Indemnity Corporation\""
+  },
+  "\"164\"": {
+    "companyCode": "\"164\"",
+    "companyName": "\"StarStone National Insurance Company\""
+  },
+  "\"165\"": {
+    "companyCode": "\"165\"",
+    "companyName": "\"Accident Fund Insurance Company of America\""
+  },
+  "\"167\"": {
+    "companyCode": "\"167\"",
+    "companyName": "\"The Travelers Casualty Company\""
+  },
+  "\"171\"": {
+    "companyCode": "\"171\"",
+    "companyName": "\"Atlanta International Insurance Company\""
+  },
+  "\"173\"": {
+    "companyCode": "\"173\"",
+    "companyName": "\"Stonington Insurance Company\""
+  },
+  "\"175\"": {
+    "companyCode": "\"175\"",
+    "companyName": "\"Peerless Indemnity Insurance Company\""
+  },
+  "\"177\"": {
+    "companyCode": "\"177\"",
+    "companyName": "\"Cincinnati Indemnity Company\""
+  },
+  "\"179\"": {
+    "companyCode": "\"179\"",
+    "companyName": "\"Atlantic Specialty Insurance Company\""
+  },
+  "\"180\"": {
+    "companyCode": "\"180\"",
+    "companyName": "\"Cincinnati Casualty Company\""
+  },
+  "\"183\"": {
+    "companyCode": "\"183\"",
+    "companyName": "\"Balboa Insurance Company\""
+  },
+  "\"185\"": {
+    "companyCode": "\"185\"",
+    "companyName": "\"Automobile Insurance Company of Hartford, The\""
+  },
+  "\"192\"": {
+    "companyCode": "\"192\"",
+    "companyName": "\"Bankers Standard Insurance Company (Pilgrim)*\""
+  },
+  "\"193\"": {
+    "companyCode": "\"193\"",
+    "companyName": "\"Integon National Insurance Company\""
+  },
+  "\"194\"": {
+    "companyCode": "\"194\"",
+    "companyName": "\"Bankers Standard Insurance Company\""
+  },
+  "\"195\"": {
+    "companyCode": "\"195\"",
+    "companyName": "\"21st Century North America Insurance Company\""
+  },
+  "\"197\"": {
+    "companyCode": "\"197\"",
+    "companyName": "\"Fair American Insurance & Reinsurance Company\""
+  },
+  "\"199\"": {
+    "companyCode": "\"199\"",
+    "companyName": "\"BITCO General Insurance Corporation\""
+  },
+  "\"201\"": {
+    "companyCode": "\"201\"",
+    "companyName": "\"AIG Property Casualty Company\""
+  },
+  "\"202\"": {
+    "companyCode": "\"202\"",
+    "companyName": "\"AIG Property Casualty Company (Pilgrim)\""
+  },
+  "\"203\"": {
+    "companyCode": "\"203\"",
+    "companyName": "\"Catlin Indemnity Company\""
+  },
+  "\"204\"": {
+    "companyCode": "\"204\"",
+    "companyName": "\"Granite State Insurance Company\""
+  },
+  "\"205\"": {
+    "companyCode": "\"205\"",
+    "companyName": "\"Illinois National Insurance Company\""
+  },
+  "\"206\"": {
+    "companyCode": "\"206\"",
+    "companyName": "\"Nationwide Agribusiness Insurance Company\""
+  },
+  "\"208\"": {
+    "companyCode": "\"208\"",
+    "companyName": "\"CM Select Insurance Company\""
+  },
+  "\"210\"": {
+    "companyCode": "\"210\"",
+    "companyName": "\"Bunker Hill Security Insurance Company\""
+  },
+  "\"211\"": {
+    "companyCode": "\"211\"",
+    "companyName": "\"Bunker Hill Preferred Insurance Company\""
+  },
+  "\"212\"": {
+    "companyCode": "\"212\"",
+    "companyName": "\"Bunker Hill Property Insurance Company\""
+  },
+  "\"215\"": {
+    "companyCode": "\"215\"",
+    "companyName": "\"Canal Insurance Company\""
+  },
+  "\"219\"": {
+    "companyCode": "\"219\"",
+    "companyName": "\"Safety National Casualty Corporation\""
+  },
+  "\"225\"": {
+    "companyCode": "\"225\"",
+    "companyName": "\"Carolina Casualty Insurance Company\""
+  },
+  "\"226\"": {
+    "companyCode": "\"226\"",
+    "companyName": "\"Great Divide Insurance Company\""
+  },
+  "\"229\"": {
+    "companyCode": "\"229\"",
+    "companyName": "\"Clarendon National Insurance Company\""
+  },
+  "\"230\"": {
+    "companyCode": "\"230\"",
+    "companyName": "\"Praetorian Insurance Company\""
+  },
+  "\"235\"": {
+    "companyCode": "\"235\"",
+    "companyName": "\"Concord General Mutual Insurance Company\""
+  },
+  "\"236\"": {
+    "companyCode": "\"236\"",
+    "companyName": "\"Lancer Indemnity Company\""
+  },
+  "\"237\"": {
+    "companyCode": "\"237\"",
+    "companyName": "\"All America Insurance Company\""
+  },
+  "\"238\"": {
+    "companyCode": "\"238\"",
+    "companyName": "\"Central Mutual Insurance Company\""
+  },
+  "\"241\"": {
+    "companyCode": "\"241\"",
+    "companyName": "\"Berkshire Hathaway Homestate Insurance Company\""
+  },
+  "\"245\"": {
+    "companyCode": "\"245\"",
+    "companyName": "\"Charter Oak Fire Insurance Company, The\""
+  },
+  "\"246\"": {
+    "companyCode": "\"246\"",
+    "companyName": "\"American Southern Home Insurance Company\""
+  },
+  "\"247\"": {
+    "companyCode": "\"247\"",
+    "companyName": "\"National Casualty Company\""
+  },
+  "\"250\"": {
+    "companyCode": "\"250\"",
+    "companyName": "\"Berkley One (pilgrim)*\""
+  },
+  "\"256\"": {
+    "companyCode": "\"256\"",
+    "companyName": "\"Berkley Regional Insurance Company\""
+  },
+  "\"257\"": {
+    "companyCode": "\"257\"",
+    "companyName": "\"Berkley Insurance Company\""
+  },
+  "\"259\"": {
+    "companyCode": "\"259\"",
+    "companyName": "\"Cincinnati Insurance Company, The\""
+  },
+  "\"261\"": {
+    "companyCode": "\"261\"",
+    "companyName": "\"ACE American Insurance Company\""
+  },
+  "\"262\"": {
+    "companyCode": "\"262\"",
+    "companyName": "\"Citizens Insurance Company of America\""
+  },
+  "\"263\"": {
+    "companyCode": "\"263\"",
+    "companyName": "\"ACE Fire Underwriters Insurance Company\""
+  },
+  "\"264\"": {
+    "companyCode": "\"264\"",
+    "companyName": "\"Westchester Fire Insurance Company\""
+  },
+  "\"265\"": {
+    "companyCode": "\"265\"",
+    "companyName": "\"Berkley National Insurance Company\""
+  },
+  "\"266\"": {
+    "companyCode": "\"266\"",
+    "companyName": "\"Church Mutual Insurance Company\""
+  },
+  "\"267\"": {
+    "companyCode": "\"267\"",
+    "companyName": "\"Chubb National Insurance Company\""
+  },
+  "\"268\"": {
+    "companyCode": "\"268\"",
+    "companyName": "\"Chubb Indemnity Insurance Company\""
+  },
+  "\"269\"": {
+    "companyCode": "\"269\"",
+    "companyName": "\"21st Century Centennial Insurance Company\""
+  },
+  "\"270\"": {
+    "companyCode": "\"270\"",
+    "companyName": "\"Vigilant Insurance Company*\""
+  },
+  "\"271\"": {
+    "companyCode": "\"271\"",
+    "companyName": "\"Country Casualty Insurance Company\""
+  },
+  "\"272\"": {
+    "companyCode": "\"272\"",
+    "companyName": "\"Country Mutual Insurance Company\""
+  },
+  "\"273\"": {
+    "companyCode": "\"273\"",
+    "companyName": "\"Colonial American Casualty and Surety Company\""
+  },
+  "\"274\"": {
+    "companyCode": "\"274\"",
+    "companyName": "\"Federated Reserve Insurance Company\""
+  },
+  "\"277\"": {
+    "companyCode": "\"277\"",
+    "companyName": "\"Key Risk Insurance Company\""
+  },
+  "\"279\"": {
+    "companyCode": "\"279\"",
+    "companyName": "\"Commerce Insurance Company, The\""
+  },
+  "\"283\"": {
+    "companyCode": "\"283\"",
+    "companyName": "\"Commerce and Industry Insurance Company\""
+  },
+  "\"284\"": {
+    "companyCode": "\"284\"",
+    "companyName": "\"Commonwealth Mutual Insurance Company\""
+  },
+  "\"293\"": {
+    "companyCode": "\"293\"",
+    "companyName": "\"Valley Forge Insurance Company\""
+  },
+  "\"295\"": {
+    "companyCode": "\"295\"",
+    "companyName": "\"Continental Casualty Company\""
+  },
+  "\"296\"": {
+    "companyCode": "\"296\"",
+    "companyName": "\"Continental Indemnity Company\""
+  },
+  "\"297\"": {
+    "companyCode": "\"297\"",
+    "companyName": "\"Contractors Bonding and Insurance Company\""
+  },
+  "\"303\"": {
+    "companyCode": "\"303\"",
+    "companyName": "\"Cumis Insurance Society, Inc.\""
+  },
+  "\"304\"": {
+    "companyCode": "\"304\"",
+    "companyName": "\"Dairyland Insurance Company (Pilgrim)\""
+  },
+  "\"305\"": {
+    "companyCode": "\"305\"",
+    "companyName": "\"Dairyland Insurance Company\""
+  },
+  "\"306\"": {
+    "companyCode": "\"306\"",
+    "companyName": "\"Dealers Assurance Company*\""
+  },
+  "\"307\"": {
+    "companyCode": "\"307\"",
+    "companyName": "\"Intrepid Insurance Company\""
+  },
+  "\"308\"": {
+    "companyCode": "\"308\"",
+    "companyName": "\"Electric Insurance Company (Pilgrim)\""
+  },
+  "\"309\"": {
+    "companyCode": "\"309\"",
+    "companyName": "\"Electric Insurance Company\""
+  },
+  "\"312\"": {
+    "companyCode": "\"312\"",
+    "companyName": "\"Encompass Insurance Company of Massachusetts\""
+  },
+  "\"313\"": {
+    "companyCode": "\"313\"",
+    "companyName": "\"Essentia Insurance Company\""
+  },
+  "\"314\"": {
+    "companyCode": "\"314\"",
+    "companyName": "\"American Modern Home Insurance Company\""
+  },
+  "\"316\"": {
+    "companyCode": "\"316\"",
+    "companyName": "\"Empire Fire & Marine Insurance Company\""
+  },
+  "\"319\"": {
+    "companyCode": "\"319\"",
+    "companyName": "\"EMC Property & Casualty Company\""
+  },
+  "\"320\"": {
+    "companyCode": "\"320\"",
+    "companyName": "\"American Modern Property and Casualty Insurance Company\""
+  },
+  "\"322\"": {
+    "companyCode": "\"322\"",
+    "companyName": "\"EMCASCO Insurance Company\""
+  },
+  "\"323\"": {
+    "companyCode": "\"323\"",
+    "companyName": "\"Esurance Insurance Company\""
+  },
+  "\"325\"": {
+    "companyCode": "\"325\"",
+    "companyName": "\"Employers' Fire Insurance Company, The\""
+  },
+  "\"326\"": {
+    "companyCode": "\"326\"",
+    "companyName": "\"Excelsior Insurance Company\""
+  },
+  "\"327\"": {
+    "companyCode": "\"327\"",
+    "companyName": "\"Everest National Insurance Company\""
+  },
+  "\"329\"": {
+    "companyCode": "\"329\"",
+    "companyName": "\"Amica Property & Casualty Insurance Company\""
+  },
+  "\"330\"": {
+    "companyCode": "\"330\"",
+    "companyName": "\"Everest Denali Insurance Company\""
+  },
+  "\"332\"": {
+    "companyCode": "\"332\"",
+    "companyName": "\"Maidstone Insurance Company\""
+  },
+  "\"333\"": {
+    "companyCode": "\"333\"",
+    "companyName": "\"Lamorak Insurance Company\""
+  },
+  "\"334\"": {
+    "companyCode": "\"334\"",
+    "companyName": "\"Everest Premier Insurance Company\""
+  },
+  "\"335\"": {
+    "companyCode": "\"335\"",
+    "companyName": "\"Discover Property and Casualty Insurance Company\""
+  },
+  "\"336\"": {
+    "companyCode": "\"336\"",
+    "companyName": "\"Employers Mutual Casualty Company\""
+  },
+  "\"340\"": {
+    "companyCode": "\"340\"",
+    "companyName": "\"Employers Insurance Company of Wausau\""
+  },
+  "\"342\"": {
+    "companyCode": "\"342\"",
+    "companyName": "\"Selective Insurance Company of America\""
+  },
+  "\"343\"": {
+    "companyCode": "\"343\"",
+    "companyName": "\"GEICO General Insurance Company\""
+  },
+  "\"344\"": {
+    "companyCode": "\"344\"",
+    "companyName": "\"Tri-State Insurance Company of Minnesota\""
+  },
+  "\"347\"": {
+    "companyCode": "\"347\"",
+    "companyName": "\"Selective Insurance Company of South Carolina\""
+  },
+  "\"348\"": {
+    "companyCode": "\"348\"",
+    "companyName": "\"Selective Insurance Company of New York\""
+  },
+  "\"349\"": {
+    "companyCode": "\"349\"",
+    "companyName": "\"Selective Insurance Company of the Southeast\""
+  },
+  "\"351\"": {
+    "companyCode": "\"351\"",
+    "companyName": "\"Meridian Security Insurance Company\""
+  },
+  "\"354\"": {
+    "companyCode": "\"354\"",
+    "companyName": "\"Amica Mutual Insurance Company\""
+  },
+  "\"357\"": {
+    "companyCode": "\"357\"",
+    "companyName": "\"First Financial Insurance Company\""
+  },
+  "\"359\"": {
+    "companyCode": "\"359\"",
+    "companyName": "\"GEICO Indemnity Company\""
+  },
+  "\"361\"": {
+    "companyCode": "\"361\"",
+    "companyName": "\"GEICO Casualty Company\""
+  },
+  "\"362\"": {
+    "companyCode": "\"362\"",
+    "companyName": "\"Farm Family Casualty Insurance Company\""
+  },
+  "\"363\"": {
+    "companyCode": "\"363\"",
+    "companyName": "\"Farm Family Casualty Insurance Company (Pilgrim)\""
+  },
+  "\"364\"": {
+    "companyCode": "\"364\"",
+    "companyName": "\"Prime Property & Casualty Insurance Inc\""
+  },
+  "\"366\"": {
+    "companyCode": "\"366\"",
+    "companyName": "\"Arch Insurance Company\""
+  },
+  "\"370\"": {
+    "companyCode": "\"370\"",
+    "companyName": "\"Mid-Century Insurance Company\""
+  },
+  "\"371\"": {
+    "companyCode": "\"371\"",
+    "companyName": "\"Colony Specialty Insurance Company\""
+  },
+  "\"377\"": {
+    "companyCode": "\"377\"",
+    "companyName": "\"Federal Insurance Company\""
+  },
+  "\"380\"": {
+    "companyCode": "\"380\"",
+    "companyName": "\"Federated Mutual Insurance Company\""
+  },
+  "\"381\"": {
+    "companyCode": "\"381\"",
+    "companyName": "\"Federated Service Insurance Company\""
+  },
+  "\"388\"": {
+    "companyCode": "\"388\"",
+    "companyName": "\"Stillwater Insurance Company\""
+  },
+  "\"392\"": {
+    "companyCode": "\"392\"",
+    "companyName": "\"Fidelity and Guaranty Insurance Company\""
+  },
+  "\"393\"": {
+    "companyCode": "\"393\"",
+    "companyName": "\"Fidelity and Guaranty Insurance Underwriters\""
+  },
+  "\"397\"": {
+    "companyCode": "\"397\"",
+    "companyName": "\"Allmerica Financial Benefit Insurance Company\""
+  },
+  "\"399\"": {
+    "companyCode": "\"399\"",
+    "companyName": "\"Fireman's Fund Insurance Company\""
+  },
+  "\"400\"": {
+    "companyCode": "\"400\"",
+    "companyName": "\"Axis Insurance Company\""
+  },
+  "\"402\"": {
+    "companyCode": "\"402\"",
+    "companyName": "\"Firemen's Insurance Company of Washington, DC\""
+  },
+  "\"403\"": {
+    "companyCode": "\"403\"",
+    "companyName": "\"First Liberty Insurance Corporation, The\""
+  },
+  "\"404\"": {
+    "companyCode": "\"404\"",
+    "companyName": "\"First National Insurance Company of America\""
+  },
+  "\"407\"": {
+    "companyCode": "\"407\"",
+    "companyName": "\"Bedivere Insurance Company\""
+  },
+  "\"408\"": {
+    "companyCode": "\"408\"",
+    "companyName": "\"Genesis Insurance Company\""
+  },
+  "\"410\"": {
+    "companyCode": "\"410\"",
+    "companyName": "\"Jefferson Insurance Company*\""
+  },
+  "\"411\"": {
+    "companyCode": "\"411\"",
+    "companyName": "\"State Auto Property & Casualty Insurance Company\""
+  },
+  "\"412\"": {
+    "companyCode": "\"412\"",
+    "companyName": "\"Rampart Insurance Company\""
+  },
+  "\"414\"": {
+    "companyCode": "\"414\"",
+    "companyName": "\"State Automobile Mutual Insurance Company\""
+  },
+  "\"415\"": {
+    "companyCode": "\"415\"",
+    "companyName": "\"Allianz Global Risks US Insurance Company\""
+  },
+  "\"416\"": {
+    "companyCode": "\"416\"",
+    "companyName": "\"Patrons Mutual Insurance Company of CT\""
+  },
+  "\"417\"": {
+    "companyCode": "\"417\"",
+    "companyName": "\"General Insurance Company of America\""
+  },
+  "\"418\"": {
+    "companyCode": "\"418\"",
+    "companyName": "\"IDS Property Casualty Insurance Company\""
+  },
+  "\"419\"": {
+    "companyCode": "\"419\"",
+    "companyName": "\"Citation Insurance Company, MA\""
+  },
+  "\"420\"": {
+    "companyCode": "\"420\"",
+    "companyName": "\"Continental Western Insurance Company\""
+  },
+  "\"422\"": {
+    "companyCode": "\"422\"",
+    "companyName": "\"IDS Property Casualty Insurance Company (Pilgrim)*\""
+  },
+  "\"424\"": {
+    "companyCode": "\"424\"",
+    "companyName": "\"Graphic Arts Mutual Insurance Company\""
+  },
+  "\"426\"": {
+    "companyCode": "\"426\"",
+    "companyName": "\"Great American Spirit Insurance Company\""
+  },
+  "\"427\"": {
+    "companyCode": "\"427\"",
+    "companyName": "\"Great Northern Insurance Company\""
+  },
+  "\"428\"": {
+    "companyCode": "\"428\"",
+    "companyName": "\"First American Property and Casualty Insurance Company*\""
+  },
+  "\"429\"": {
+    "companyCode": "\"429\"",
+    "companyName": "\"Government Employees Insurance Company\""
+  },
+  "\"436\"": {
+    "companyCode": "\"436\"",
+    "companyName": "\"General Casualty Company of Wisconsin\""
+  },
+  "\"437\"": {
+    "companyCode": "\"437\"",
+    "companyName": "\"Regent Insurance Company\""
+  },
+  "\"439\"": {
+    "companyCode": "\"439\"",
+    "companyName": "\"Great American Insurance Company\""
+  },
+  "\"441\"": {
+    "companyCode": "\"441\"",
+    "companyName": "\"Great West Casualty Company\""
+  },
+  "\"442\"": {
+    "companyCode": "\"442\"",
+    "companyName": "\"Greater New York Mutual Insurance Company\""
+  },
+  "\"443\"": {
+    "companyCode": "\"443\"",
+    "companyName": "\"NOVA Casualty Company\""
+  },
+  "\"444\"": {
+    "companyCode": "\"444\"",
+    "companyName": "\"Green Mountain Insurance Company, Inc.\""
+  },
+  "\"446\"": {
+    "companyCode": "\"446\"",
+    "companyName": "\"American Modern Select Insurance Company\""
+  },
+  "\"450\"": {
+    "companyCode": "\"450\"",
+    "companyName": "\"Green Mountain Insurance Company Inc (Pilgrim)\""
+  },
+  "\"451\"": {
+    "companyCode": "\"451\"",
+    "companyName": "\"Hudson Insurance Company\""
+  },
+  "\"453\"": {
+    "companyCode": "\"453\"",
+    "companyName": "\"Hanover American Insurance Company, The\""
+  },
+  "\"454\"": {
+    "companyCode": "\"454\"",
+    "companyName": "\"Allmerica Financial Alliance Insurance Company\""
+  },
+  "\"455\"": {
+    "companyCode": "\"455\"",
+    "companyName": "\"Hanover Insurance Company, The\""
+  },
+  "\"461\"": {
+    "companyCode": "\"461\"",
+    "companyName": "\"Sentinel Insurance Company LTD\""
+  },
+  "\"462\"": {
+    "companyCode": "\"462\"",
+    "companyName": "\"Sentry Insurance a Mutual Company\""
+  },
+  "\"463\"": {
+    "companyCode": "\"463\"",
+    "companyName": "\"Greenwich Insurance Company\""
+  },
+  "\"464\"": {
+    "companyCode": "\"464\"",
+    "companyName": "\"Hartford Insurance Company of the Midwest\""
+  },
+  "\"465\"": {
+    "companyCode": "\"465\"",
+    "companyName": "\"Harco National Insurance Company\""
+  },
+  "\"466\"": {
+    "companyCode": "\"466\"",
+    "companyName": "\"Hartford Underwriters Insurance Company\""
+  },
+  "\"467\"": {
+    "companyCode": "\"467\"",
+    "companyName": "\"Hartford Casualty Insurance Company\""
+  },
+  "\"468\"": {
+    "companyCode": "\"468\"",
+    "companyName": "\"Hartford Fire Insurance Company\""
+  },
+  "\"469\"": {
+    "companyCode": "\"469\"",
+    "companyName": "\"Hartford Accident and Indemnity Company\""
+  },
+  "\"481\"": {
+    "companyCode": "\"481\"",
+    "companyName": "\"Horace Mann Insurance Company\""
+  },
+  "\"486\"": {
+    "companyCode": "\"486\"",
+    "companyName": "\"Harleysville Preferred Insurance Company\""
+  },
+  "\"494\"": {
+    "companyCode": "\"494\"",
+    "companyName": "\"AmTrust Insurance Company of Kansas\""
+  },
+  "\"495\"": {
+    "companyCode": "\"495\"",
+    "companyName": "\"Insurance Company of Greater New York\""
+  },
+  "\"498\"": {
+    "companyCode": "\"498\"",
+    "companyName": "\"MAPFRE Insurance Company\""
+  },
+  "\"499\"": {
+    "companyCode": "\"499\"",
+    "companyName": "\"Insurance Company of North America\""
+  },
+  "\"503\"": {
+    "companyCode": "\"503\"",
+    "companyName": "\"Insurance Company of the State of Pennsylvania\""
+  },
+  "\"504\"": {
+    "companyCode": "\"504\"",
+    "companyName": "\"XL Specialty Insurance Company\""
+  },
+  "\"507\"": {
+    "companyCode": "\"507\"",
+    "companyName": "\"Response Insurance Company\""
+  },
+  "\"509\"": {
+    "companyCode": "\"509\"",
+    "companyName": "\"Sentry Select Insurance Company\""
+  },
+  "\"510\"": {
+    "companyCode": "\"510\"",
+    "companyName": "\"Liberty Insurance Underwriters Inc.\""
+  },
+  "\"512\"": {
+    "companyCode": "\"512\"",
+    "companyName": "\"Liberty Mutual Fire Insurance Company\""
+  },
+  "\"513\"": {
+    "companyCode": "\"513\"",
+    "companyName": "\"Liberty Insurance Corporation\""
+  },
+  "\"514\"": {
+    "companyCode": "\"514\"",
+    "companyName": "\"Liberty Mutual Insurance Company\""
+  },
+  "\"518\"": {
+    "companyCode": "\"518\"",
+    "companyName": "\"LM Insurance Corporation\""
+  },
+  "\"521\"": {
+    "companyCode": "\"521\"",
+    "companyName": "\"LM General Insurance Company\""
+  },
+  "\"529\"": {
+    "companyCode": "\"529\"",
+    "companyName": "\"Continental Insurance Company, The\""
+  },
+  "\"530\"": {
+    "companyCode": "\"530\"",
+    "companyName": "\"Vermont Mutual Insurance Company\""
+  },
+  "\"531\"": {
+    "companyCode": "\"531\"",
+    "companyName": "\"Vermont Mutual Insurance Company (Pilgrim)*\""
+  },
+  "\"538\"": {
+    "companyCode": "\"538\"",
+    "companyName": "\"Seneca Insurance Company, Inc.\""
+  },
+  "\"546\"": {
+    "companyCode": "\"546\"",
+    "companyName": "\"Guarantee Company of North America USA\""
+  },
+  "\"547\"": {
+    "companyCode": "\"547\"",
+    "companyName": "\"Lumbermen's Underwriting Alliance*\""
+  },
+  "\"556\"": {
+    "companyCode": "\"556\"",
+    "companyName": "\"Vermont Accident Insurance Company Inc\""
+  },
+  "\"561\"": {
+    "companyCode": "\"561\"",
+    "companyName": "\"Markel American Insurance Company\""
+  },
+  "\"567\"": {
+    "companyCode": "\"567\"",
+    "companyName": "\"Massachusetts Bay Insurance Company\""
+  },
+  "\"569\"": {
+    "companyCode": "\"569\"",
+    "companyName": "\"Midvale Indemnity Company\""
+  },
+  "\"571\"": {
+    "companyCode": "\"571\"",
+    "companyName": "\"Milford Casualty Insurance Company\""
+  },
+  "\"578\"": {
+    "companyCode": "\"578\"",
+    "companyName": "\"Merchants Preferred Insurance Company\""
+  },
+  "\"581\"": {
+    "companyCode": "\"581\"",
+    "companyName": "\"Liberty Mutual Mid-Atlantic Insurance Company\""
+  },
+  "\"582\"": {
+    "companyCode": "\"582\"",
+    "companyName": "\"Merchants Mutual Insurance Company\""
+  },
+  "\"583\"": {
+    "companyCode": "\"583\"",
+    "companyName": "\"WRM America Indemnity Company, Inc.\""
+  },
+  "\"584\"": {
+    "companyCode": "\"584\"",
+    "companyName": "\"Metropolitan Property & Casualty Insurance Company(Pilgrim)\""
+  },
+  "\"585\"": {
+    "companyCode": "\"585\"",
+    "companyName": "\"Metropolitan Property and Casualty Insurance Company\""
+  },
+  "\"587\"": {
+    "companyCode": "\"587\"",
+    "companyName": "\"Metropolitan Casualty Insurance Company\""
+  },
+  "\"588\"": {
+    "companyCode": "\"588\"",
+    "companyName": "\"Metropolitan General Insurance Company\""
+  },
+  "\"589\"": {
+    "companyCode": "\"589\"",
+    "companyName": "\"Metropolitan Group Property and Casualty Insurance Company\""
+  },
+  "\"595\"": {
+    "companyCode": "\"595\"",
+    "companyName": "\"Mount Vernon Fire Insurance Company\""
+  },
+  "\"598\"": {
+    "companyCode": "\"598\"",
+    "companyName": "\"Amerisure Mutual Insurance Company\""
+  },
+  "\"599\"": {
+    "companyCode": "\"599\"",
+    "companyName": "\"Navigators Insurance Company\""
+  },
+  "\"602\"": {
+    "companyCode": "\"602\"",
+    "companyName": "\"Middlesex Insurance Company\""
+  },
+  "\"603\"": {
+    "companyCode": "\"603\"",
+    "companyName": "\"National American Insurance Company (OK)\""
+  },
+  "\"604\"": {
+    "companyCode": "\"604\"",
+    "companyName": "\"Main Street America Protection Insurance Company\""
+  },
+  "\"606\"": {
+    "companyCode": "\"606\"",
+    "companyName": "\"Covenant Insurance Company\""
+  },
+  "\"609\"": {
+    "companyCode": "\"609\"",
+    "companyName": "\"National General Insurance Company\""
+  },
+  "\"610\"": {
+    "companyCode": "\"610\"",
+    "companyName": "\"Ironshore Indemnity Inc\""
+  },
+  "\"612\"": {
+    "companyCode": "\"612\"",
+    "companyName": "\"NGM Insurance Company\""
+  },
+  "\"619\"": {
+    "companyCode": "\"619\"",
+    "companyName": "\"National Fire Insurance of Hartford\""
+  },
+  "\"620\"": {
+    "companyCode": "\"620\"",
+    "companyName": "\"National Independent Truckers Insurance Company\""
+  },
+  "\"621\"": {
+    "companyCode": "\"621\"",
+    "companyName": "\"American Economy Insurance Company\""
+  },
+  "\"622\"": {
+    "companyCode": "\"622\"",
+    "companyName": "\"National Interstate Insurance Company\""
+  },
+  "\"623\"": {
+    "companyCode": "\"623\"",
+    "companyName": "\"National Surety Corporation\""
+  },
+  "\"625\"": {
+    "companyCode": "\"625\"",
+    "companyName": "\"American States Insurance Company\""
+  },
+  "\"626\"": {
+    "companyCode": "\"626\"",
+    "companyName": "\"National Continental Insurance Company\""
+  },
+  "\"627\"": {
+    "companyCode": "\"627\"",
+    "companyName": "\"National Union Fire Insurance Company of PA\""
+  },
+  "\"630\"": {
+    "companyCode": "\"630\"",
+    "companyName": "\"Nationwide Mutual Insurance Company\""
+  },
+  "\"633\"": {
+    "companyCode": "\"633\"",
+    "companyName": "\"Netherlands Insurance Company, The\""
+  },
+  "\"638\"": {
+    "companyCode": "\"638\"",
+    "companyName": "\"Riverport Insurance Company\""
+  },
+  "\"643\"": {
+    "companyCode": "\"643\"",
+    "companyName": "\"New Hampshire Insurance Company\""
+  },
+  "\"647\"": {
+    "companyCode": "\"647\"",
+    "companyName": "\"American European Insurance Company\""
+  },
+  "\"649\"": {
+    "companyCode": "\"649\"",
+    "companyName": "\"Scottsdale Indemnity Company\""
+  },
+  "\"659\"": {
+    "companyCode": "\"659\"",
+    "companyName": "\"North American Elite Insurance Company\""
+  },
+  "\"660\"": {
+    "companyCode": "\"660\"",
+    "companyName": "\"NorGUARD Insurance Company\""
+  },
+  "\"664\"": {
+    "companyCode": "\"664\"",
+    "companyName": "\"Norfolk & Dedham Mutual Fire Insurance Company\""
+  },
+  "\"666\"": {
+    "companyCode": "\"666\"",
+    "companyName": "\"RMV MA Registry of Motor Vehicles*\""
+  },
+  "\"667\"": {
+    "companyCode": "\"667\"",
+    "companyName": "\"North River Insurance Company, The\""
+  },
+  "\"671\"": {
+    "companyCode": "\"671\"",
+    "companyName": "\"St. Paul Protective Insurance Company\""
+  },
+  "\"673\"": {
+    "companyCode": "\"673\"",
+    "companyName": "\"North American Specialty Insurance Company\""
+  },
+  "\"680\"": {
+    "companyCode": "\"680\"",
+    "companyName": "\"Ohio Security Insurance Company\""
+  },
+  "\"686\"": {
+    "companyCode": "\"686\"",
+    "companyName": "\"Occidental Fire and Casualty Company of NC\""
+  },
+  "\"688\"": {
+    "companyCode": "\"688\"",
+    "companyName": "\"Ohio Casualty Insurance Company, The\""
+  },
+  "\"689\"": {
+    "companyCode": "\"689\"",
+    "companyName": "\"Ohio Indemnity Company*\""
+  },
+  "\"690\"": {
+    "companyCode": "\"690\"",
+    "companyName": "\"Radnor Specialty Insurance Company\""
+  },
+  "\"695\"": {
+    "companyCode": "\"695\"",
+    "companyName": "\"Old Republic Insurance Company\""
+  },
+  "\"696\"": {
+    "companyCode": "\"696\"",
+    "companyName": "\"Sompo America Fire & Marine Insurance Company\""
+  },
+  "\"701\"": {
+    "companyCode": "\"701\"",
+    "companyName": "\"Pacific Employers Insurance Company\""
+  },
+  "\"702\"": {
+    "companyCode": "\"702\"",
+    "companyName": "\"United Wisconsin Insurance Company\""
+  },
+  "\"703\"": {
+    "companyCode": "\"703\"",
+    "companyName": "\"Pacific Indemnity Company\""
+  },
+  "\"705\"": {
+    "companyCode": "\"705\"",
+    "companyName": "\"State Mutual Insurance Company\""
+  },
+  "\"707\"": {
+    "companyCode": "\"707\"",
+    "companyName": "\"Patriot General Insurance Company\""
+  },
+  "\"708\"": {
+    "companyCode": "\"708\"",
+    "companyName": "\"StarNet Insurance Company\""
+  },
+  "\"710\"": {
+    "companyCode": "\"710\"",
+    "companyName": "\"Penn Millers Insurance Company\""
+  },
+  "\"711\"": {
+    "companyCode": "\"711\"",
+    "companyName": "\"Peerless Insurance Company\""
+  },
+  "\"713\"": {
+    "companyCode": "\"713\"",
+    "companyName": "\"Falls Lake National Insurance Company\""
+  },
+  "\"715\"": {
+    "companyCode": "\"715\"",
+    "companyName": "\"Pennsylvania Insurance Company\""
+  },
+  "\"716\"": {
+    "companyCode": "\"716\"",
+    "companyName": "\"Pennsylvania National Mutual Casualty Insurance Company\""
+  },
+  "\"717\"": {
+    "companyCode": "\"717\"",
+    "companyName": "\"Safety Insurance Company(Taxi)\""
+  },
+  "\"718\"": {
+    "companyCode": "\"718\"",
+    "companyName": "\"Sagamore Insurance Company\""
+  },
+  "\"719\"": {
+    "companyCode": "\"719\"",
+    "companyName": "\"Pennsylvania Manufacturers' Association Insurance\""
+  },
+  "\"721\"": {
+    "companyCode": "\"721\"",
+    "companyName": "\"Philadelphia Indemnity Insurance Company\""
+  },
+  "\"724\"": {
+    "companyCode": "\"724\"",
+    "companyName": "\"Premier Insurance Company of Massachusetts (Pilgrim)*\""
+  },
+  "\"728\"": {
+    "companyCode": "\"728\"",
+    "companyName": "\"Sunapee Mutual Fire Insurance Company\""
+  },
+  "\"730\"": {
+    "companyCode": "\"730\"",
+    "companyName": "\"Bunker Hill Insurance Casualty Company\""
+  },
+  "\"731\"": {
+    "companyCode": "\"731\"",
+    "companyName": "\"Plymouth Rock Assurance Corporation\""
+  },
+  "\"732\"": {
+    "companyCode": "\"732\"",
+    "companyName": "\"Pilgrim Insurance Company (ceded commercial auto)\""
+  },
+  "\"734\"": {
+    "companyCode": "\"734\"",
+    "companyName": "\"Pilgrim Insurance Company(Taxi)\""
+  },
+  "\"735\"": {
+    "companyCode": "\"735\"",
+    "companyName": "\"Pilgrim Insurance Company\""
+  },
+  "\"736\"": {
+    "companyCode": "\"736\"",
+    "companyName": "\"GuideOne Mutual Insurance Company\""
+  },
+  "\"737\"": {
+    "companyCode": "\"737\"",
+    "companyName": "\"Progressive Casualty Insurance Company\""
+  },
+  "\"738\"": {
+    "companyCode": "\"738\"",
+    "companyName": "\"Phoenix Insurance Company, The\""
+  },
+  "\"739\"": {
+    "companyCode": "\"739\"",
+    "companyName": "\"Protective Insurance Company\""
+  },
+  "\"743\"": {
+    "companyCode": "\"743\"",
+    "companyName": "\"Providence Washington Insurance Company\""
+  },
+  "\"745\"": {
+    "companyCode": "\"745\"",
+    "companyName": "\"LM Property and Casualty Insurance Company\""
+  },
+  "\"746\"": {
+    "companyCode": "\"746\"",
+    "companyName": "\"Public Service Insurance Company\""
+  },
+  "\"748\"": {
+    "companyCode": "\"748\"",
+    "companyName": "\"QBE Insurance Corporation\""
+  },
+  "\"749\"": {
+    "companyCode": "\"749\"",
+    "companyName": "\"Repwest Insurance Company\""
+  },
+  "\"751\"": {
+    "companyCode": "\"751\"",
+    "companyName": "\"Arrowood Indemnity Company\""
+  },
+  "\"752\"": {
+    "companyCode": "\"752\"",
+    "companyName": "\"Republic-Franklin Insurance Company\""
+  },
+  "\"756\"": {
+    "companyCode": "\"756\"",
+    "companyName": "\"RLI Insurance Company\""
+  },
+  "\"757\"": {
+    "companyCode": "\"757\"",
+    "companyName": "\"Clear Blue Insurance Company\""
+  },
+  "\"758\"": {
+    "companyCode": "\"758\"",
+    "companyName": "\"Plaza Insurance Company\""
+  },
+  "\"769\"": {
+    "companyCode": "\"769\"",
+    "companyName": "\"SAFECO Insurance Company of Indiana\""
+  },
+  "\"770\"": {
+    "companyCode": "\"770\"",
+    "companyName": "\"SAFECO Insurance Company of America\""
+  },
+  "\"772\"": {
+    "companyCode": "\"772\"",
+    "companyName": "\"Safety Indemnity Insurance Company\""
+  },
+  "\"773\"": {
+    "companyCode": "\"773\"",
+    "companyName": "\"Safety Insurance Company\""
+  },
+  "\"775\"": {
+    "companyCode": "\"775\"",
+    "companyName": "\"St. Paul Fire and Marine Insurance Company\""
+  },
+  "\"776\"": {
+    "companyCode": "\"776\"",
+    "companyName": "\"Safety Property and Casualty Insuance Company\""
+  },
+  "\"778\"": {
+    "companyCode": "\"778\"",
+    "companyName": "\"St. Paul Mercury Insurance Company\""
+  },
+  "\"779\"": {
+    "companyCode": "\"779\"",
+    "companyName": "\"St. Paul Guardian Insurance Company\""
+  },
+  "\"780\"": {
+    "companyCode": "\"780\"",
+    "companyName": "\"Travelers Constitution State Insurance Company\""
+  },
+  "\"782\"": {
+    "companyCode": "\"782\"",
+    "companyName": "\"GEICO Marine Insurance Company*\""
+  },
+  "\"784\"": {
+    "companyCode": "\"784\"",
+    "companyName": "\"Samsung Fire & Marine Insurance Co Ltd USB\""
+  },
+  "\"785\"": {
+    "companyCode": "\"785\"",
+    "companyName": "\"Progressive Direct Insurance Company\""
+  },
+  "\"786\"": {
+    "companyCode": "\"786\"",
+    "companyName": "\"Progressive Direct Insurance Company (Safety)*\""
+  },
+  "\"788\"": {
+    "companyCode": "\"788\"",
+    "companyName": "\"Progressive Commercial Casualty Company\""
+  },
+  "\"791\"": {
+    "companyCode": "\"791\"",
+    "companyName": "\"Strathmore Insurance Company\""
+  },
+  "\"792\"": {
+    "companyCode": "\"792\"",
+    "companyName": "\"State National Insurance Company, Inc.\""
+  },
+  "\"797\"": {
+    "companyCode": "\"797\"",
+    "companyName": "\"Starr Indemnity & Liability Company\""
+  },
+  "\"799\"": {
+    "companyCode": "\"799\"",
+    "companyName": "\"Starr Specialty Insurance Company\""
+  },
+  "\"816\"": {
+    "companyCode": "\"816\"",
+    "companyName": "\"TNUS Insuance Company*\""
+  },
+  "\"823\"": {
+    "companyCode": "\"823\"",
+    "companyName": "\"Standard Fire Insurance Company, The\""
+  },
+  "\"824\"": {
+    "companyCode": "\"824\"",
+    "companyName": "\"Trans Pacific Insurance Company\""
+  },
+  "\"825\"": {
+    "companyCode": "\"825\"",
+    "companyName": "\"Star Insurance Company\""
+  },
+  "\"826\"": {
+    "companyCode": "\"826\"",
+    "companyName": "\"State Farm Mutual Automobile Insurance Company(Safety)\""
+  },
+  "\"827\"": {
+    "companyCode": "\"827\"",
+    "companyName": "\"State Farm Mutual Automobile Insurance Company (Pilgrim)\""
+  },
+  "\"828\"": {
+    "companyCode": "\"828\"",
+    "companyName": "\"State Farm Mutual Automobile Insurance Company\""
+  },
+  "\"829\"": {
+    "companyCode": "\"829\"",
+    "companyName": "\"Mitsui Sumitomo Insurance Company of America\""
+  },
+  "\"830\"": {
+    "companyCode": "\"830\"",
+    "companyName": "\"Mitsui Sumitomo Insurance USA, Inc.\""
+  },
+  "\"831\"": {
+    "companyCode": "\"831\"",
+    "companyName": "\"Axis Reinsurance Company\""
+  },
+  "\"833\"": {
+    "companyCode": "\"833\"",
+    "companyName": "\"Berkshire Hathaway Specialty Insurance Company\""
+  },
+  "\"835\"": {
+    "companyCode": "\"835\"",
+    "companyName": "\"Teachers Insurance Company\""
+  },
+  "\"837\"": {
+    "companyCode": "\"837\"",
+    "companyName": "\"T.H.E. Insurance Company\""
+  },
+  "\"842\"": {
+    "companyCode": "\"842\"",
+    "companyName": "\"Transguard Insurance Company of America\""
+  },
+  "\"844\"": {
+    "companyCode": "\"844\"",
+    "companyName": "\"Tokio Marine America Insurance Company\""
+  },
+  "\"856\"": {
+    "companyCode": "\"856\"",
+    "companyName": "\"TIG Insurance Company\""
+  },
+  "\"857\"": {
+    "companyCode": "\"857\"",
+    "companyName": "\"Nationwide Insurance Company of America\""
+  },
+  "\"859\"": {
+    "companyCode": "\"859\"",
+    "companyName": "\"Transport Insurance Company\""
+  },
+  "\"867\"": {
+    "companyCode": "\"867\"",
+    "companyName": "\"Transportation Insurance Company\""
+  },
+  "\"868\"": {
+    "companyCode": "\"868\"",
+    "companyName": "\"Vantapro Specialty Insurance Company\""
+  },
+  "\"881\"": {
+    "companyCode": "\"881\"",
+    "companyName": "\"Northland Casualty Company\""
+  },
+  "\"882\"": {
+    "companyCode": "\"882\"",
+    "companyName": "\"Travco Insurance Company\""
+  },
+  "\"883\"": {
+    "companyCode": "\"883\"",
+    "companyName": "\"Travelers Home and Marine Insurance Company\""
+  },
+  "\"884\"": {
+    "companyCode": "\"884\"",
+    "companyName": "\"Travelers Indemnity Company of Connecticut, The\""
+  },
+  "\"885\"": {
+    "companyCode": "\"885\"",
+    "companyName": "\"Travelers Property Casualty Company of America\""
+  },
+  "\"887\"": {
+    "companyCode": "\"887\"",
+    "companyName": "\"Travelers Indemnity Company, The\""
+  },
+  "\"890\"": {
+    "companyCode": "\"890\"",
+    "companyName": "\"Trumbull Insurance Company (Pilgrim)\""
+  },
+  "\"891\"": {
+    "companyCode": "\"891\"",
+    "companyName": "\"Travelers Indemnity Company of America, The\""
+  },
+  "\"892\"": {
+    "companyCode": "\"892\"",
+    "companyName": "\"White Pine Insurance Company\""
+  },
+  "\"893\"": {
+    "companyCode": "\"893\"",
+    "companyName": "\"Trumbull Insurance Company\""
+  },
+  "\"894\"": {
+    "companyCode": "\"894\"",
+    "companyName": "\"Twin City Fire Insurance Company\""
+  },
+  "\"895\"": {
+    "companyCode": "\"895\"",
+    "companyName": "\"Lancer Insurance Company\""
+  },
+  "\"896\"": {
+    "companyCode": "\"896\"",
+    "companyName": "\"Truck Insurance Exchange\""
+  },
+  "\"900\"": {
+    "companyCode": "\"900\"",
+    "companyName": "\"Union Insurance Company of Providence\""
+  },
+  "\"902\"": {
+    "companyCode": "\"902\"",
+    "companyName": "\"United Financial Casualty Company\""
+  },
+  "\"907\"": {
+    "companyCode": "\"907\"",
+    "companyName": "\"United Services Automobile Association\""
+  },
+  "\"908\"": {
+    "companyCode": "\"908\"",
+    "companyName": "\"United Services Automobile Association(Pilgrim)\""
+  },
+  "\"910\"": {
+    "companyCode": "\"910\"",
+    "companyName": "\"Union Insurance Company\""
+  },
+  "\"913\"": {
+    "companyCode": "\"913\"",
+    "companyName": "\"Vault Reciprocal Exchange\""
+  },
+  "\"916\"": {
+    "companyCode": "\"916\"",
+    "companyName": "\"Garrison Property & Casualty Insurance Company\""
+  },
+  "\"919\"": {
+    "companyCode": "\"919\"",
+    "companyName": "\"United States Fidelity and Guaranty Company\""
+  },
+  "\"921\"": {
+    "companyCode": "\"921\"",
+    "companyName": "\"Watford Insurance Company\""
+  },
+  "\"927\"": {
+    "companyCode": "\"927\"",
+    "companyName": "\"United States Fire Insurance Company\""
+  },
+  "\"934\"": {
+    "companyCode": "\"934\"",
+    "companyName": "\"Utica National Insurance Company of Texas\""
+  },
+  "\"936\"": {
+    "companyCode": "\"936\"",
+    "companyName": "\"Universal Underwriters of TX Insurance Company\""
+  },
+  "\"940\"": {
+    "companyCode": "\"940\"",
+    "companyName": "\"USAA General Indemnity Company\""
+  },
+  "\"941\"": {
+    "companyCode": "\"941\"",
+    "companyName": "\"Universal Underwriters Insurance Company\""
+  },
+  "\"942\"": {
+    "companyCode": "\"942\"",
+    "companyName": "\"Utica National Assurance Company\""
+  },
+  "\"943\"": {
+    "companyCode": "\"943\"",
+    "companyName": "\"USAA Casualty Insurance Company\""
+  },
+  "\"944\"": {
+    "companyCode": "\"944\"",
+    "companyName": "\"New England Mutual Insurance Company\""
+  },
+  "\"948\"": {
+    "companyCode": "\"948\"",
+    "companyName": "\"Utica Mutual Insurance Company\""
+  },
+  "\"949\"": {
+    "companyCode": "\"949\"",
+    "companyName": "\"Viking Insurance Company of Wisconsin\""
+  },
+  "\"950\"": {
+    "companyCode": "\"950\"",
+    "companyName": "\"XL Insurance America, Inc.\""
+  },
+  "\"951\"": {
+    "companyCode": "\"951\"",
+    "companyName": "\"Vanliner Insurance Company\""
+  },
+  "\"954\"": {
+    "companyCode": "\"954\"",
+    "companyName": "\"Virginia Surety Company, Inc.\""
+  },
+  "\"955\"": {
+    "companyCode": "\"955\"",
+    "companyName": "\"Wausau Underwriters Insurance Company\""
+  },
+  "\"956\"": {
+    "companyCode": "\"956\"",
+    "companyName": "\"Wausau Business Insurance Company\""
+  },
+  "\"957\"": {
+    "companyCode": "\"957\"",
+    "companyName": "\"Wausau General Insurance Company\""
+  },
+  "\"958\"": {
+    "companyCode": "\"958\"",
+    "companyName": "\"Harleysville Insurance Company\""
+  },
+  "\"959\"": {
+    "companyCode": "\"959\"",
+    "companyName": "\"Harleysville Worcester Insurance Co (Pilgrim)\""
+  },
+  "\"960\"": {
+    "companyCode": "\"960\"",
+    "companyName": "\"West American Insurance Company\""
+  },
+  "\"962\"": {
+    "companyCode": "\"962\"",
+    "companyName": "\"Mountain Valley Indemnity Company\""
+  },
+  "\"963\"": {
+    "companyCode": "\"963\"",
+    "companyName": "\"Harleysville Worcester Insurance Company\""
+  },
+  "\"970\"": {
+    "companyCode": "\"970\"",
+    "companyName": "\"Sompo America Insurance Company \""
+  },
+  "\"971\"": {
+    "companyCode": "\"971\"",
+    "companyName": "\"Zurich American Insurance Company\""
+  },
+  "\"973\"": {
+    "companyCode": "\"973\"",
+    "companyName": "\"Alterra America Insurance Company\""
+  },
+  "\"974\"": {
+    "companyCode": "\"974\"",
+    "companyName": "\"Merrimack Mutual Fire Insurance Company\""
+  },
+  "\"978\"": {
+    "companyCode": "\"978\"",
+    "companyName": "\"Phenix Mutual Fire Insurance Company*\""
+  },
+  "\"979\"": {
+    "companyCode": "\"979\"",
+    "companyName": "\"American Bankers Insurance Company of Florida\""
+  },
+  "\"981\"": {
+    "companyCode": "\"981\"",
+    "companyName": "\"American Road Insurance Company\""
+  },
+  "\"984\"": {
+    "companyCode": "\"984\"",
+    "companyName": "\"Hingham Mutual Fire Insurance Company*\""
+  },
+  "\"985\"": {
+    "companyCode": "\"985\"",
+    "companyName": "\"CorePointe Insurance Company\""
+  },
+  "\"988\"": {
+    "companyCode": "\"988\"",
+    "companyName": "\"Quincy Mutual Fire Insurance Company\""
+  },
+  "\"989\"": {
+    "companyCode": "\"989\"",
+    "companyName": "\"Foremost Insurance Company\""
+  },
+  "\"990\"": {
+    "companyCode": "\"990\"",
+    "companyName": "\"Fitchburg Mutual Insurance Company\""
+  },
+  "\"991\"": {
+    "companyCode": "\"991\"",
+    "companyName": "\"MIC Property and Casualty Insurance Corporation\""
+  },
+  "\"992\"": {
+    "companyCode": "\"992\"",
+    "companyName": "\"Motors Insurance Corporation*\""
+  },
+  "\"994\"": {
+    "companyCode": "\"994\"",
+    "companyName": "\"Providence Mutual Fire Insurance Company, The\""
+  },
+  "\"995\"": {
+    "companyCode": "\"995\"",
+    "companyName": "\"RMV MA Registry of Motor Vehicles*\""
+  },
+  "\"996\"": {
+    "companyCode": "\"996\"",
+    "companyName": "\"Indemnity Insurance Company of North America\""
+  },
+  "\"997\"": {
+    "companyCode": "\"997\"",
+    "companyName": "\"RMV MA Registry of Motor Vehicles*\""
+  },
+  "\"998\"": {
+    "companyCode": "\"998\"",
+    "companyName": "\"CIM Insurance Corporation*\""
+  },
+  "\"999\"": {
+    "companyCode": "\"999\"",
+    "companyName": "\"Commonwealth Automobile Reinsurers*\""
+  }
+}

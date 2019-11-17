@@ -1,0 +1,181 @@
+{
+  "absEquipped": "",
+  "displacement": 1000,
+  "drive": "",
+  "dryWeight": 436,
+  "engineType": "",
+  "exhaustName": "",
+  "hp": 0,
+  "makeCode": 81,
+  "makeName": "BMW",
+  "mcClassName": "Standard",
+  "modelDesc": "R100",
+  "modelYear": 1981,
+  "retailPrice": 5350,
+  "seriesName": "R100",
+  "torque": 0,
+  "transmission": "",
+  "vinModelYearChar": "B",
+  "vinPrefix": "WB10435_",
+  "wheelbase": ""
+}
+
+{
+  "absEquipped": "",
+  "displacement": 1000,
+  "drive": "",
+  "dryWeight": 441,
+  "engineType": "",
+  "exhaustName": "",
+  "hp": 0,
+  "makeCode": 81,
+  "makeName": "BMW",
+  "mcClassName": "Standard",
+  "modelDesc": "R100CS",
+  "modelYear": 1981,
+  "retailPrice": 6600,
+  "seriesName": "R100CS",
+  "torque": 0,
+  "transmission": "",
+  "vinModelYearChar": "B",
+  "vinPrefix": "WB10436_",
+  "wheelbase": ""
+}
+
+{
+  "absEquipped": "",
+  "displacement": 1000,
+  "drive": "",
+  "dryWeight": 463,
+  "engineType": "",
+  "exhaustName": "",
+  "hp": 0,
+  "makeCode": 81,
+  "makeName": "BMW",
+  "mcClassName": "Sport",
+  "modelDesc": "R100RS",
+  "modelYear": 1981,
+  "retailPrice": 7025,
+  "seriesName": "R100RS",
+  "torque": 0,
+  "transmission": "",
+  "vinModelYearChar": "B",
+  "vinPrefix": "WB10437_",
+  "wheelbase": ""
+}
+
+
+{
+  "absEquipped": "",
+  "displacement": 0,
+  "drive": "",
+  "dryWeight": 0,
+  "engineType": "",
+  "exhaustName": "",
+  "hp": 0,
+  "makeCode": 85,
+  "makeName": "Harley Davidson",
+  "mcClassName": "Sidecar",
+  "modelDesc": "CLE",
+  "modelYear": 1981,
+  "retailPrice": 0,
+  "seriesName": "Sidecar",
+  "torque": 0,
+  "transmission": "",
+  "vinModelYearChar": "B",
+  "vinPrefix": "1HD8SEX1",
+  "wheelbase": ""
+}
+
+{
+  "absEquipped": "",
+  "displacement": 0,
+  "drive": "",
+  "dryWeight": 0,
+  "engineType": "",
+  "exhaustName": "",
+  "hp": 0,
+  "makeCode": 85,
+  "makeName": "Harley Davidson",
+  "mcClassName": "Sidecar",
+  "modelDesc": "CLE with FLHX",
+  "modelYear": 1981,
+  "retailPrice": 0,
+  "seriesName": "Sidecar",
+  "torque": 0,
+  "transmission": "",
+  "vinModelYearChar": "B",
+  "vinPrefix": "1HD8SHX1",
+  "wheelbase": ""
+}
+
+{
+  "absEquipped": "",
+  "displacement": 1340,
+  "drive": "",
+  "dryWeight": 0,
+  "engineType": "",
+  "exhaustName": "",
+  "hp": 0,
+  "makeCode": 85,
+  "makeName": "Harley Davidson",
+  "mcClassName": "Touring",
+  "modelDesc": "FLH",
+  "modelYear": 1981,
+  "retailPrice": 7159,
+  "seriesName": "Electra Glide",
+  "torque": 0,
+  "transmission": "",
+  "vinModelYearChar": "B",
+  "vinPrefix": "1HD1AGK1",
+  "wheelbase": ""
+}
+
+year - 1982
+
+{
+  "absEquipped": "",
+  "displacement": 1000,
+  "drive": "",
+  "dryWeight": 436,
+  "engineType": "",
+  "exhaustName": "",
+  "hp": 0,
+  "makeCode": 81,
+  "makeName": "BMW",
+  "mcClassName": "Standard",
+  "modelDesc": "R100",
+  "modelYear": 1982,
+  "retailPrice": 5350,
+  "seriesName": "R100",
+  "torque": 0,
+  "transmission": "",
+  "vinModelYearChar": "C",
+  "vinPrefix": "WB10435_",
+  "wheelbase": ""
+}
+
+
+year - 1983
+
+{
+  "absEquipped": "",
+  "displacement": 1000,
+  "drive": "",
+  "dryWeight": 436,
+  "engineType": "",
+  "exhaustName": "",
+  "hp": 0,
+  "makeCode": 81,
+  "makeName": "BMW",
+  "mcClassName": "Standard",
+  "modelDesc": "R100",
+  "modelYear": 1983,
+  "retailPrice": 5350,
+  "seriesName": "R100",
+  "torque": 0,
+  "transmission": "",
+  "vinModelYearChar": "D",
+  "vinPrefix": "WB10435_",
+  "wheelbase": ""
+}

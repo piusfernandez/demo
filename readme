@@ -1,0 +1,24 @@
+To run demo
+1. run local redis instance
+2. run local elasticsearch instance
+3. run local kibana instance			( 
+
+Camel route
+-----------
+load the vehicle csv data file to elastic search ( vehicle type )
+load the vehicle csv data file to elastic search ( year type - year -> <list>Make -> <list>Model & <List>Series
+
+kafka 
+-----
+1. run local zookeeper
+2. run local kafka
+3. create topic
+4. create consumer and connect to the topic
+4. publish message
+
+create topic
+bin/kafka-topics.sh --create --zookeeper localhost:2181 --replication-factor 1 --partitions 1 --topic kafka_example
+
+create consumer
+bin/kafka-console-consumer.sh --bootstrap-server localhost:9092 --topic kafka_example --from-beginning
+

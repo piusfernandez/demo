@@ -1,0 +1,26 @@
+<prefill_input_data> 
+  <header> 
+    <property name="client_id" value="AI" /> 
+    <property name="policy_number" value="NYAQ0004328025" /> 
+    <property name="policy_effective_date" value="12/01/2018" /> 
+    <property name="agent_id" value="42464" /> 
+    <property name="company_id" value="HP-DPF-TEST" /> 
+    <property name="agent360_code" value="502201TDP"/> 
+    <property name="cache_duration" value="0" /> 
+  </header> 
+  <request> 
+    <name> 
+      <first_name>CLARENCE</first_name> 
+      <last_name>BRKICH</last_name> 
+    </name> 
+    <gender>M</gender> 
+    <date_of_birth>08/14/1983</date_of_birth> 
+    <address> 
+      <address_line_one>7935 264th ST</address_line_one> 
+      <address_line_two></address_line_two> 
+      <city>GLEN OAKS</city> 
+      <state>NY</state> 
+      <zip_code>11004</zip_code> 
+    </address> 
+  </request> 
+</prefill_input_data>
