@@ -1,7 +1,5 @@
 package com.example.demo.service;
 
-import java.util.Map;
-
 import org.apache.camel.Exchange;
 import org.apache.camel.Processor;
 import org.slf4j.Logger;

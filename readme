@@ -20,9 +20,21 @@ kafka
 4. create consumer and connect to the topic
 4. publish message
 
+start zookeeper
+bin/zookeeper-server-start config/zookeeper.properties
+
 create topic
 bin/kafka-topics.sh --create --zookeeper localhost:2181 --replication-factor 1 --partitions 1 --topic kafka_example
+bin/kafka-topics.sh --create --zookeeper localhost:2181 --replication-factor 1 --partitions 1 --topic kafka_example_json
+
 
 create consumer
 bin/kafka-console-consumer.sh --bootstrap-server localhost:9092 --topic kafka_example --from-beginning
 
+http connection
+---------------
+ClientHttpRequestFactory - functional interface
+Spring supports the following
+ org.springframework.http.client.HttpComponentsClientHttpRequestFactory
+ org.springframework.http.client.OkHttp3ClientHttpRequestFactory
+ 

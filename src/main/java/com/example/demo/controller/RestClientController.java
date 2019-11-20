@@ -8,7 +8,7 @@ import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.GetMapping;
-import org.springframework.web.bind.annotation.RequestParam;
+import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.RestController;
 
 import com.example.demo.entity.Make;
@@ -26,7 +26,7 @@ public class RestClientController {
 	Logger log = LoggerFactory.getLogger(RestClientController.class);
 	
 	@GetMapping("/client/load/vehicle/{year}")
-	public Year getVehYearDataViaRestClientCall(@RequestParam("year") final int year){
+	public Year getVehYearDataViaRestClientCall(@PathVariable("year") final int year){
 		Year yearData = restClientService.getVehYearData(year);
 		
 		/*
@@ -59,10 +59,10 @@ public class RestClientController {
 	}
 	
 	@GetMapping("/client/get/vehicle/{year}/{make}/{model}")
-	public Vehicle getVehicleForYearMakeModel(
-			@RequestParam("year") final int year,
-			@RequestParam("make") final String make,
-			@RequestParam("model") final String model
+	public List<Vehicle> getVehicleForYearMakeModel(
+			@PathVariable("year") final int year,
+			@PathVariable("make") final String make,
+			@PathVariable("model") final String model
 			)	{
 		return restClientService.getVehicleForYearMakeModel(year, make, model);
 	}

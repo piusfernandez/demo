@@ -1,5 +1,7 @@
 package com.example.demo.service;
 
+import java.util.List;
+
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.stereotype.Service;
@@ -25,10 +27,13 @@ public class RestClientService {
 		return restOperations.getForObject(url, Year.class, year);
 	}
 	
-	public Vehicle getVehicleForYearMakeModel(int year, String make, String model)	{
+	public List<Vehicle> getVehicleForYearMakeModel(int year, String make, String model)	{
 		
-		return restOperations.getForObject(urlYearMakeMode, Vehicle.class, year, make, model);
+		return restOperations.getForObject(urlYearMakeMode, List.class, year, make, model);
 	}
+	
+	
+
 	
 	
 }
