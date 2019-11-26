@@ -2,7 +2,6 @@ package com.example.demo;
 
 import java.io.IOException;
 import java.util.concurrent.CancellationException;
-import java.util.concurrent.ExecutionException;
 
 import org.apache.http.HttpHost;
 import org.apache.http.HttpResponse;
@@ -22,8 +21,8 @@ import org.springframework.boot.test.context.SpringBootTest.WebEnvironment;
 import org.springframework.test.context.junit4.SpringRunner;
 import org.springframework.web.client.RestOperations;
 
-@RunWith(SpringRunner.class)
-@SpringBootTest(webEnvironment=WebEnvironment.RANDOM_PORT)
+//@RunWith(SpringRunner.class)
+//@SpringBootTest(webEnvironment=WebEnvironment.RANDOM_PORT)
 //@WebMvcTest
 public class RestClientControllerTest {
 

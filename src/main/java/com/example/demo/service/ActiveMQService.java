@@ -24,7 +24,7 @@ public class ActiveMQService implements MQService {
 	 *  "lob" : "",
 	 *  "policyNo" : "",
 	 *  "policySeqNo : "",
-	 * 	"queueName" : "violation",
+	 * 	"queueName" : "es.violation",
 	 *  "key" : "queueName:company:state:channel:lob:policyNo:policySeqNo",
 	 *  "request" : {}
 	 *  "response" : {}
@@ -32,10 +32,8 @@ public class ActiveMQService implements MQService {
 	 * */
 	
 	@Override
-	public void sendMessage(String message) {		
-		Util.updateKey(
-		 Util.updateId(
-		  Util.convertJsonToObject(message)));
+	public void sendMessage(String message, String queueName) {	
+		jmsTemplate.convertAndSend(queueName, message);
 	}
 
 }

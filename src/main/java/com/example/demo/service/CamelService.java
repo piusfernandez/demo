@@ -19,10 +19,10 @@ public class CamelService implements Processor{
 	@Override
 	public void process(Exchange exchange) throws Exception {
 		Vehicle vehicle = (Vehicle)exchange.getIn().getBody();
-		//Map dataMap = objectMapper.convertValue(vehicle, Map.class);
-		String json = objectMapper.writeValueAsString(vehicle);
+		//String json = objectMapper.writeValueAsString(vehicle);
 		//log.info(json);
-		exchange.getIn().setBody(json);
+		//exchange.getIn().setBody(json);
+		exchange.getIn().setBody(vehicle);
 	}
 
 }

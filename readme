@@ -1,6 +1,19 @@
 Add project to git
 https://help.github.com/en/github/importing-your-projects-to-github/adding-an-existing-project-to-github-using-the-command-line
 
+commands:
+git init
+git add .
+git commit -m "First commit"
+github -> create new repository
+git remote add origin "remote github new repository url"
+git remote -v	# verifies the new remote URL
+git push origin master
+
+git add .							# Adds the file to your local repository and stages it for commit. To unstage a file, use 'git reset HEAD YOUR-FILE'.
+git commit -m "Add existing file"	# Commits the tracked changes and prepares them to be pushed to a remote repository. To remove this commit and modify the file, use 'git reset --soft HEAD~1' and commit and add the file again.
+git push origin master 		# Pushes the changes in your local repository up to the remote repository you specified as the origin
+
 
 To run demo
 1. run local redis instance

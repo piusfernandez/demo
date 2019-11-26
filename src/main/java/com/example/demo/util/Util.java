@@ -8,6 +8,7 @@ import java.util.UUID;
 import java.util.stream.Stream;
 
 import com.example.demo.entity.Message;
+import com.fasterxml.jackson.core.JsonProcessingException;
 import com.fasterxml.jackson.databind.ObjectMapper;
 
 public class Util {
@@ -31,6 +32,17 @@ public class Util {
 		return objectMapper.convertValue(json, Message.class);
 	}
 
+	public static String convertObjectToJson(Message message){
+		ObjectMapper objectMapper = new ObjectMapper();
+		try {
+			return objectMapper.writeValueAsString(message);
+		} catch (JsonProcessingException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
+		return null;
+	}
+	
 	public static Message updateId(Message message) {
 		message.setId(UUID.randomUUID());
 		return message;
@@ -47,5 +59,9 @@ public class Util {
 		key.replaceFirst("policySeqNo", message.getPolicySeqNo());
 		message.setKey(key);
 		return message;
+	}
+
+	public static String findQueueName(String message) {
+		return convertJsonToObject(message).getQueueName();
 	}
 }
